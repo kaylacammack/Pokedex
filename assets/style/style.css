@@ -1,1 +1,22 @@
 /* BASIC STYLES HERE */
+.PressStart2PText {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.redBackgroundColor {
+    background-color: #E93031;
+}
+/* ul {
+
+    list-style: url('pokemongoicon.png');
+} */
+/* li {
+    list-style: none
+} */
+/* li::before {
+    content: '';
+    display: inline-block; */
+    /* height: 5px;
+    width: 5px; */
+    /* background-image: url('pokemongoicon.png');
+} */
